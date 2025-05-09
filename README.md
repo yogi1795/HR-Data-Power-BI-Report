@@ -1,4 +1,4 @@
-# IHR Analytics Report – A Power BI Dashboard for Strategic Workforce Insights
+# HR Analytics Report – A Power BI Dashboard for Strategic Workforce Insights
 
 **"HR Analytics Report"**, a comprehensive dashboard built to help HR teams, analysts, and business leaders understand workforce dynamics at a glance.
 
